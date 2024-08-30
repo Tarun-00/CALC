@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "CALC-IST107-MAIN",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
